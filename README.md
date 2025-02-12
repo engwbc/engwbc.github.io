@@ -89,6 +89,6 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
 
 ## HOBBIES & INTERESTS
 * **Gardening & DIY** - developed a coconut and cacao orchard during my gap year.
-* **Rifle shooting** - previously part of a local shooting team in Norway, participated in regional competitions: Hedmark, Oslo (in Norwegian). Learned about the importance of gun safety and control.
+* **Rifle shooting** - previously part of a local shooting team in Norway, participated in regional competitions. Learned about the importance of gun safety and control.
 * **Video editing** - created vlogs for a gap year project to brainstorm and reflect on ideas.
 * **Cross-country skiing**
