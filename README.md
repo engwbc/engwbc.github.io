@@ -1,6 +1,7 @@
 # PIYAKRIT WONGBOONCHAI
 
-piyakrit_w@protonmail.com 
+<a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download> PDF version </a> <br>
+piyakrit_w@protonmail.com <br>
 
 ## RESEARCH EXPERIENCE
 
