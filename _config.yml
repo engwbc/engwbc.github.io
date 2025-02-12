@@ -1,9 +1,5 @@
 description: ["Welcome to my github.io page! Updated: 12 Feb 2025"]
 remote_theme: BDHU/minimalist
 color-scheme: light
-sidebar:
-- name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/engwbc
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
