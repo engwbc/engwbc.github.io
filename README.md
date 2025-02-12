@@ -4,10 +4,10 @@
 ## RESEARCH EXPERIENCE
 
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
-Research Intern at the Department of Medical Sciences 
+Research Intern at the Department of Medical Sciences<br> 
 Supervised by Dr Surakameth Mahasirimongkol.
-* Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine. 
-* Worked on projects in the second phase of GeTH which aims to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: <br>
+* Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine.
+* Worked on projects in the second phase of GeTH which aims to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: <p>
   * Ran genome-wide association studies (GWAS) to explore genetic variants linked with drug-induced severe cutaneous adverse reactions (SCARs) and adverse events following immunisation (AEFI).
   * Performed Mycobacterium tuberculosis structural variation (SV) analysis using multiple SV callers (IMSindel, Manta) and GATK 4 for single nucleotide variation (SNV) calling.
   * Interpreted BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG) to establish a Thai breast cancer variant database.
@@ -26,6 +26,7 @@ Dissertation supervised by Prof Rafael Carazo-Salas.
 **Ministry of Public Health, Thailand (2021)** <br>	
 Summer internship supervised by Dr Surakameth Mahasirimongkol.
 * Conducted genomic analysis of SARS-CoV-2, focusing on the Spike and Nucleocapsid proteins, to monitor viral evolution in Thailand.
+
 ## TECHNICAL SKILLS
 **Bioinformatics:**
 * Programming languages - Python, R, Unix
@@ -51,15 +52,15 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * Main subjects: Biology, Chemistry, English Language & Literature
 
 ## CONFERENCES & WORKSHOPS
-* ***AWS Genomics Community Day*** - Workshop hosted by Amazon Web Services (AWS), Forthcoming (March 2025)
+* ***AWS Genomics Community Day*** - Workshop hosted by Amazon Web Services (AWS), Forthcoming (March 2025) <p>
 * ***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
   * Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
-  * Developed an awareness of common issues in other Asian countries regarding sharing genomic data.
+  * Developed an awareness of common issues in other Asian countries regarding sharing genomic data. <p>
 * ***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok, 2025
-  * Explored the successes and challenges, both technical and policy-based, that Genomics England faced in AI applications in healthcare.
-* ***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024
-* ***Transforming Healthcare: AI in Health Data*** - Seminar hosted by Office for National Statistics UK, 2024
-* ***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021
+  * Explored the successes and challenges, both technical and policy-based, that Genomics England faced in AI applications in healthcare. <p>
+* ***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024 <p>
+* ***Transforming Healthcare: AI in Health Data*** - Seminar hosted by Office for National Statistics UK, 2024 <p>
+* ***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021 <p>
 
 ## PROFESSIONAL MEMBERSHIPS
 Thai Society of Human Genetics: 2024 - present	
