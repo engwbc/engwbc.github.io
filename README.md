@@ -1,6 +1,7 @@
 # PIYAKRIT WONGBOONCHAI
 
-[GitHub](https://github.com/engwbc) | piyakrit_w@protonmail.com 
+piyakrit_w@protonmail.com 
+
 ## RESEARCH EXPERIENCE
 
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
