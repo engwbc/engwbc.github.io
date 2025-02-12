@@ -1,7 +1,7 @@
 # PIYAKRIT WONGBOONCHAI
 
 [GitHub](https://github.com/engwbc) | piyakrit_w@protonmail.com 
-## RESEARCH EXPERIENCE <br>
+## RESEARCH EXPERIENCE
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
 Research Intern at the Department of Medical Sciences 
 Supervised by Dr Surakameth Mahasirimongkol.
