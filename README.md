@@ -2,6 +2,7 @@
 
 [GitHub](https://github.com/engwbc) | piyakrit_w@protonmail.com 
 ## RESEARCH EXPERIENCE
+
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
 Research Intern at the Department of Medical Sciences 
 Supervised by Dr Surakameth Mahasirimongkol.
@@ -26,14 +27,16 @@ Dissertation supervised by Prof Rafael Carazo-Salas.
 Summer internship supervised by Dr Surakameth Mahasirimongkol.
 * Conducted genomic analysis of SARS-CoV-2, focusing on the Spike and Nucleocapsid proteins, to monitor viral evolution in Thailand.
 ## TECHNICAL SKILLS
-* **Bioinformatics:**
-  * Programming languages - Python, R, Unix
-  * Cloud & Virtual Machine (VM) computing
-  * GWAS, Variant interpretation, Phylogenetic inference <br>
-* **Experimental techniques:**
-  * PCR, CRISPR/Cas-9, DNA extraction
-  * Western blot, Co-immunoprecipitation
-  * Cell imaging (Widefield & Confocal) <br>
+**Bioinformatics:**
+* Programming languages - Python, R, Unix
+* Cloud & Virtual Machine (VM) computing
+* GWAS, Variant interpretation, Phylogenetic inference <br>
+
+**Experimental techniques:**
+* PCR, CRISPR/Cas-9, DNA extraction
+* Western blot, Co-immunoprecipitation
+* Cell imaging (Widefield & Confocal) <br>
+
 ## EDUCATION
 **University of York, UK (2022 - 2023)** <br>
 Master of Science (MSc) in Biomedical Sciences <br>
