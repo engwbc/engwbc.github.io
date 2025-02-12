@@ -54,15 +54,20 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * Main subjects: Biology, Chemistry, English Language & Literature
 
 ## CONFERENCES & WORKSHOPS
-* ***AWS Genomics Community Day*** - Workshop hosted by Amazon Web Services (AWS), Forthcoming (March 2025) 
-* ***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
-  * Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
-  * Developed an awareness of common issues in other Asian countries regarding sharing genomic data. 
-* ***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok, 2025
-  * Explored the successes and challenges, both technical and policy-based, that Genomics England faced in AI applications in healthcare. 
-* ***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024 
-* ***Transforming Healthcare: AI in Health Data*** - Seminar hosted by Office for National Statistics UK, 2024 
-* ***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021 
+***AWS Genomics Community Day*** - Workshop hosted by Amazon Web Services (AWS), Forthcoming (March 2025)
+  
+***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
+* Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
+* Developed an awareness of common issues in other Asian countries regarding sharing genomic data.
+ 
+***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok, 2025
+* Explored the successes and challenges, both technical and policy-based, that Genomics England faced in AI applications in healthcare.
+   
+***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024
+  
+***Transforming Healthcare: AI in Health Data*** - Seminar hosted by Office for National Statistics UK, 2024
+  
+***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021 
 
 ## PROFESSIONAL MEMBERSHIPS
 Thai Society of Human Genetics, 2024 - present	
