@@ -1,7 +1,7 @@
 # PIYAKRIT WONGBOONCHAI
 
 <a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
-piyakrit_w@protonmail.com <br>
+piyakrit_w at protonmail.com <br>
 
 ## RESEARCH EXPERIENCE
 
@@ -60,8 +60,8 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
 * Developed an awareness of common issues in other Asian countries regarding sharing genomic data.
  
-***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok, 2025
-* Explored the successes and challenges, both technical and policy-based, that Genomics England faced in AI applications in healthcare.
+***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok with guest speakers from Genomics England and Incubator for AI (ai.gov.uk), 2025
+* Explored the successes and challenges, both technical and policy-based, for AI applications in British healthcare and research.
    
 ***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024
   
