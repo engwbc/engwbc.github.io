@@ -64,7 +64,7 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * ***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021 
 
 ## PROFESSIONAL MEMBERSHIPS
-Thai Society of Human Genetics: 2024 - present	
+Thai Society of Human Genetics, 2024 - present	
 
 ## AWARDS
 Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
@@ -72,7 +72,7 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
 ## RELEVANT EXPERIENCES
 **Analyst (2023 - 2024)** <br>
 * Performed data analysis to improve operations and identified opportunities for businesses, projects include:
-  *Real estate development and palm oil optimisation
+  * Real estate development and palm oil optimisation
   
 **Volunteer** <br>
 **Biodiversity Survey (2023)**
