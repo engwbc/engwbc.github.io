@@ -2,7 +2,7 @@
 
 <a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
 piyakrit_w at protonmail.com <br>
-
+[GitHub](https://github.com/engwbc)
 ## RESEARCH EXPERIENCE
 
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
