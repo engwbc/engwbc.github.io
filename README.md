@@ -18,7 +18,7 @@ Supervised by Dr Surakameth Mahasirimongkol.
 **University of York, UK (2023)** <br>
 Research project supervised by Prof Jeremy Mottram & Dr Joana Faria. 
 * Utilised precision gene editing to characterise a putative RNA:DNA helicase in Leishmania mexicana.
-* Use of bioinformatic tools (MAFFT, HMMER) to obtain protein predictions and AlphaFold2 for structural analysis. <br>
+* Obtained protein predictions from bioinformatic tools (MAFFT, HMMER) and AlphaFold2 for 3D structural analysis. <br>
 
 **University of Bristol, UK (2022)** <br>
 Dissertation supervised by Prof Rafael Carazo-Salas. 
