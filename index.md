@@ -9,7 +9,7 @@ piyakrit_w at protonmail.com <br>
 Research Intern at the Department of Medical Sciences<br> 
 Supervised by Dr Surakameth Mahasirimongkol.
 * Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine.
-* Worked on projects in the second phase of GeTH which aims to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: 
+* Worked on projects GeTH which aims to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: 
   * Ran genome-wide association studies (GWAS) to explore genetic variants linked with drug-induced severe cutaneous adverse reactions (SCARs) and adverse events following immunisation (AEFI).
   * Performed Mycobacterium tuberculosis structural variation (SV) analysis using multiple SV callers (IMSindel, Manta) and GATK 4 for single nucleotide variation (SNV) calling.
   * Interpreted BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG) to establish a Thai breast cancer variant database.
@@ -43,11 +43,9 @@ Summer internship supervised by Dr Surakameth Mahasirimongkol.
 ## EDUCATION
 **University of York, UK (2022 - 2023)** <br>
 Master of Science (MSc) in Biomedical Sciences <br>
-* Awarded with Distinction (GPA: 4.00) <br>
 
 **University of Bristol, UK (2019 - 2022)** <br>
 Bachelor of Science (BSc Hons) in Biomedical Sciences <br>
-* Awarded Second Class Upper Division or 2:1 (GPA: 3.50) <br>
 
 **Gjøvik High School, Norway (2017 - 2019)** <br>
 International Baccalaureate Diploma Programme (IBDP) <br>
@@ -94,7 +92,7 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
 [Data Science for Everyone](https://drive.google.com/file/d/18jKZ87-q6ndzHkxqrP_s-PnX58nnprYW/view?usp=drive_link) - FutureSkill
 
 ## HOBBIES & INTERESTS
-* **Gardening & DIY** - developed a coconut and cacao orchard during my gap year.
+* **Gardening & DIY** 
 * **Rifle shooting** - previously part of a local shooting team in Norway, participated in regional competitions. Learned about the importance of gun safety and control.
 * **Video editing** - created vlogs for a gap year project to brainstorm and reflect on ideas.
 * **Cross-country skiing**
