@@ -1,15 +1,16 @@
 # PIYAKRIT WONGBOONCHAI
 
 <a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
+[GitHub](https://github.com/engwbc) <br>
 piyakrit_w at protonmail.com <br>
-[GitHub](https://github.com/engwbc)
+
 ## RESEARCH EXPERIENCE
 
 **Ministry of Public Health, Thailand (2024 - Present)** <br>
 Research Intern at the Department of Medical Sciences<br> 
 Supervised by Dr Surakameth Mahasirimongkol.
 * Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine.
-* Worked on projects GeTH which aims to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: 
+* Worked on projects GeTH to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: 
   * Ran genome-wide association studies (GWAS) to explore genetic variants linked with drug-induced severe cutaneous adverse reactions (SCARs) and adverse events following immunisation (AEFI).
   * Performed Mycobacterium tuberculosis structural variation (SV) analysis using multiple SV callers (IMSindel, Manta) and GATK 4 for single nucleotide variation (SNV) calling.
   * Interpreted BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG) to establish a Thai breast cancer variant database.
@@ -52,11 +53,11 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * Main subjects: Biology, Chemistry, English Language & Literature
 
 ## CONFERENCES & WORKSHOPS
-***AWS Genomics Community Day*** - Workshop hosted by Amazon Web Services (AWS), Forthcoming (March 2025)
+***AWS Genomics Community Day*** - 3 – 4 March 2025, workshop hosted by Amazon Web Services (AWS)
   
 ***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
 * Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
-* Developed an awareness of common issues in other Asian countries regarding sharing genomic data.
+* Developed an awareness for common issues among Asian countries regarding sharing genomic data.
  
 ***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok with guest speakers from Genomics England and Incubator for AI (ai.gov.uk), 2025
 * Explored the successes and challenges, both technical and policy-based, for AI applications in British healthcare and research.
@@ -88,7 +89,7 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
 * Provided individual tutoring to primary school students for several subjects, such as Mathematics, English and Norwegian while undertaking my IB diploma.
 
 ## CERTIFICATES
-[Introduction to Machine Learning](https://www.kaggle.com/learn/certification/zeeweemama/intro-to-machine-learning) - Kaggle <br>
+[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/zeeweemama/intermediate-machine-learning) - Kaggle <br>
 [Data Science for Everyone](https://drive.google.com/file/d/18jKZ87-q6ndzHkxqrP_s-PnX58nnprYW/view?usp=drive_link) - FutureSkill
 
 ## HOBBIES & INTERESTS
