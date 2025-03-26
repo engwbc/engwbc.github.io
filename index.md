@@ -10,20 +10,20 @@ piyakrit_w at protonmail.com <br>
 Research Intern at the Department of Medical Sciences<br> 
 Supervised by Dr Surakameth Mahasirimongkol.
 * Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine.
-* Worked on projects GeTH to integrate genomic medicine to clinical services by developing a digital genomic database and predicting drug response based on pharmacogenes: 
+* Worked on GeTH projects to integrate genomic medicine to clinical services by developing a digital database for diseases and characterising pharmacogenes:
   * Ran genome-wide association studies (GWAS) to explore genetic variants linked with drug-induced severe cutaneous adverse reactions (SCARs) and adverse events following immunisation (AEFI).
   * Performed Mycobacterium tuberculosis structural variation (SV) analysis using multiple SV callers (IMSindel, Manta) and GATK 4 for single nucleotide variation (SNV) calling.
-  * Interpreted BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG) to establish a Thai breast cancer variant database.
-  * Conducted a proof of concept for the implementation of Amazon Web Services (AWS) to support and accelerate demanding computational tasks, such as large GWAS datasets (>1,000 samples and >500,000 SNPs). <br>
+  * Collaborated with medical scientists and curated BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG, 2018) to construct a database for Thai breast cancer variants.
+  * Developed and deployed pipelines to Amazon Web Services (AWS) for scaling up demanding computational tasks, such as large GWAS analyses (>1,000 samples and >900,000 SNPs). <br>
 
 **University of York, UK (2023)** <br>
 Research project supervised by Prof Jeremy Mottram & Dr Joana Faria. 
 * Utilised precision gene editing to characterise a putative RNA:DNA helicase in Leishmania mexicana.
-* Obtained protein predictions from bioinformatic tools (MAFFT, HMMER) and AlphaFold2 for 3D structural analysis. <br>
+* Employed bioinformatic tools (HMMER and AlphaFold2) to infer protein structural properties. <br>
 
 **University of Bristol, UK (2022)** <br>
 Dissertation supervised by Prof Rafael Carazo-Salas. 
-* Experimented with image segmentation and classification techniques for tracking individual human pluripotent stem cells to map differentiation pathways.
+* Applied image segmentation and classification methods for tracking individual human pluripotent stem cells to map differentiation pathways.
 * Extracted biological features to predict differentiation characteristics, such as differentiation marker expression, cell cycle length, cell migration distance and cell velocity. <br>
 
 **Ministry of Public Health, Thailand (2021)** <br>	
@@ -53,20 +53,19 @@ International Baccalaureate Diploma Programme (IBDP) <br>
 * Main subjects: Biology, Chemistry, English Language & Literature
 
 ## CONFERENCES & WORKSHOPS
+***Infectious Diseases Omics*** - 17 - 20 March 2025, hands-on multi-omics course hosted by the London School Hygiene and Tropical Medicine.
+* Techniques range from: phylogenetics and molecular clocking, transcriptomics, machine learning.
+
 ***AWS Genomics Community Day*** - 3 – 4 March 2025, workshop hosted by Amazon Web Services (AWS)
+* Explored cloud-based genomics workflows with AWS HealthOmics.
   
 ***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
-* Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia. 
+* Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia.
+* Collaborated with data scientists to solve a hackathon problem.
 * Developed an awareness for common issues among Asian countries regarding sharing genomic data.
  
 ***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok with guest speakers from Genomics England and Incubator for AI (ai.gov.uk), 2025
 * Explored the successes and challenges, both technical and policy-based, for AI applications in British healthcare and research.
-   
-***AWS Public Sector Day Thailand*** - Seminar hosted by AWS, 2024
-  
-***Transforming Healthcare: AI in Health Data*** - Seminar hosted by Office for National Statistics UK, 2024
-  
-***Microbial Genomics and Genomic Medicine*** - Symposium hosted by NSTDA Thailand, 2021 
 
 ## PROFESSIONAL MEMBERSHIPS
 Thai Society of Human Genetics, 2024 - present	
@@ -80,17 +79,18 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
   * Real estate development and palm oil optimisation
   
 **Volunteer** <br>
-**Biodiversity Survey (2023)**
-* 3 month volunteering project, worked in a team of 6 volunteers. 
-* Analysed the growth of plants and soil conditions for a park.
+Biodiversity Survey (2023)
+* Volunteering project for York Community Projects, worked in a team of 6 volunteers. 
+* Organised surveys to analyse plant growth and soil condition for a park.
 * Presented findings to stakeholders of the park and provided actionable recommendations for future development.
 
 **Tutor (2017 - 2018)** <br>
 * Provided individual tutoring to primary school students for several subjects, such as Mathematics, English and Norwegian while undertaking my IB diploma.
 
 ## CERTIFICATES
+[Infectious Diseases Omics](https://drive.google.com/file/d/1of7lnOci-3KKVRlBgYRkq_JQVahvflwx/view?usp=sharing) - London School of Hygiene and Tropical Medicine <br> 
 [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/zeeweemama/intermediate-machine-learning) - Kaggle <br>
-[Data Science for Everyone](https://drive.google.com/file/d/18jKZ87-q6ndzHkxqrP_s-PnX58nnprYW/view?usp=drive_link) - FutureSkill
+[Data Science for Everyone](https://drive.google.com/file/d/18jKZ87-q6ndzHkxqrP_s-PnX58nnprYW/view?usp=drive_link) - FutureSkill <br>
 
 ## HOBBIES & INTERESTS
 * **Gardening & DIY** 
