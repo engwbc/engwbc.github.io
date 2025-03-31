@@ -44,6 +44,7 @@ Summer internship supervised by Dr Surakameth Mahasirimongkol.
 ## EDUCATION
 **University of York, UK (2022 - 2023)** <br>
 Master of Science (MSc) in Biomedical Sciences <br>
+* Activities: Biodiversity Community Project
 
 **University of Bristol, UK (2019 - 2022)** <br>
 Bachelor of Science (BSc Hons) in Biomedical Sciences <br>
@@ -78,14 +79,14 @@ Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
 * Performed data analysis to improve operations and identified opportunities for businesses, projects include:
   * Real estate development and palm oil optimisation
   
-**Volunteer** <br>
-Biodiversity Survey (2023)
-* Volunteering project for York Community Projects, worked in a team of 6 volunteers. 
-* Organised surveys to analyse plant growth and soil condition for a park.
+**Volunteer** (2023) <br>
+Rowntree Park Biodiversity Survey
+* Volunteered for York Community Projects, where I worked in a team of 6 volunteers to assist the Friends of Rowntree charity to address issues on flooding. 
+* Organised surveys to analyse plant growth and soil condition for the Pollinator Project.
 * Presented findings to stakeholders of the park and provided actionable recommendations for future development.
 
 **Tutor (2017 - 2018)** <br>
-* Provided individual tutoring to primary school students for several subjects, such as Mathematics, English and Norwegian while undertaking my IB diploma.
+* Provided individual tutoring to primary school students at Gjøvik International School for several subjects, such as Mathematics, English and Norwegian while undertaking my IB diploma.
 
 ## CERTIFICATES
 [Infectious Diseases Omics](https://drive.google.com/file/d/1of7lnOci-3KKVRlBgYRkq_JQVahvflwx/view?usp=sharing) - London School of Hygiene and Tropical Medicine <br> 
@@ -95,5 +96,4 @@ Biodiversity Survey (2023)
 ## HOBBIES & INTERESTS
 * **Gardening & DIY** 
 * **Rifle shooting** - previously part of a local shooting team in Norway, participated in regional competitions. Learned about the importance of gun safety and control.
-* **Video editing** - created vlogs for a gap year project to brainstorm and reflect on ideas.
 * **Cross-country skiing**
