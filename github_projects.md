@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Repositories - Scientific
 
 * [Genomics pipeline](https://github.com/engwbc/genomics_pipeline)
