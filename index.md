@@ -1,7 +1,7 @@
 # PIYAKRIT WONGBOONCHAI
 
+![pdf](https://github.com/user-attachments/assets/46d54490-eeac-4a79-a5f9-cde2e7c628bd)
 <a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
-[GitHub](https://github.com/engwbc) <br>
 piyakrit_w at protonmail.com <br>
 
 ## RESEARCH EXPERIENCE
