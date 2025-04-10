@@ -16,13 +16,14 @@ For my MSc, I took on an experimental project in parasitology with Jeremy Mottra
 <p align="center">
 <img src="files/images/about/mNGVex2-Vex1mCH.svg" alt="leishmania" width=500> <br>
 <em>A co-transcriptional complex? Fluorescence visualisation of Leishmania "VEX2" (mCherry-tagged) and "VEX1" (mNeonGreen-tagged), a component of the splice leader array body (SLAB).</em>
+</p>
 
 Through these experiences, I realised that I appreciate research, so I am currently searching for PhD opportunities. <br>
 
 ## Volunteering
 I enjoy volunteering, experiences include:
 * **Health volunteer** - visited the elderly and chronically ill patients to check on their well-being.
-* **Biodiversity Survey for [Rowntree Park](https://rowntreepark.org.uk/)** to address issues arising from flooding. I investigated plant species and soil conditions within the park's Pollinator Project. <br>
+* **Biodiversity Survey for [Rowntree Park](https://rowntreepark.org.uk/)** to address issues arising from flooding. I investigated plant species and soil conditions within the park's Pollinator Project.
 <p align="center">
 <img src="files/images/about/survey1.jpg" alt="survey1" width=500 height=400/>
 <img src="files/images/about/survey2.jpg" alt="survey2" width=300 height=400/><br>
@@ -30,7 +31,7 @@ I enjoy volunteering, experiences include:
 </p>
 
 * **Tutor** - assisted primary school students in subjects such as Mathematics, English and Norwegian.
-* **Event organisation** - on various occassions, including school events and club activities. 
+* **Event organisation** - on various occasions, including school events and club activities. 
 
 <br>
 
