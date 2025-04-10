@@ -1,5 +1,5 @@
 description: ["Welcome to engwbc.github.io"]
-logo: files/github_prof_pic.jpg
+logo: files/images/github_prof_pic.jpg
 remote_theme: BDHU/minimalist
 color-scheme: light
 plugins:
