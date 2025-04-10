@@ -1,99 +1,37 @@
-# PIYAKRIT WONGBOONCHAI
+# About
 
-![pdf](https://github.com/user-attachments/assets/46d54490-eeac-4a79-a5f9-cde2e7c628bd)
-<a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
-piyakrit_w at protonmail.com <br>
+Hello, my name is Piyakrit, but please call me Eng (pronounced: Ing)! <br>
 
-## RESEARCH EXPERIENCE
+I am an intern at the Ministry of Public Health (MOPH), Thailand, working within the Genomic Medicine division at the [Department of Medical Sciences (DMSc)](https://www.dmsc.moph.go.th/en/home). Here, I am working on various projects within [Genomics Thailand](https://genomicsthailand.com/Genomic/home) ([Facebook](https://www.facebook.com/GenomicsThailand/)) - from developing bioinformatics pipelines, performing genome-wide association studies (GWAS) to variant interpretation for genetic diseases, primarily breast cancer. All of this was new to me, but I found this endeavour satisfying! <br>
 
-**Ministry of Public Health, Thailand (2024 - Present)** <br>
-Research Intern at the Department of Medical Sciences<br> 
-Supervised by Dr Surakameth Mahasirimongkol.
-* Contributed to Genomics Thailand (GeTH), an extensive collaborative research network to enable precision medicine.
-* Worked on GeTH projects to integrate genomic medicine to clinical services by developing a digital database for diseases and characterising pharmacogenes:
-  * Ran genome-wide association studies (GWAS) to explore genetic variants linked with drug-induced severe cutaneous adverse reactions (SCARs) and adverse events following immunisation (AEFI).
-  * Performed Mycobacterium tuberculosis structural variation (SV) analysis using multiple SV callers (IMSindel, Manta) and GATK 4 for single nucleotide variation (SNV) calling.
-  * Collaborated with medical scientists and curated BRCA1/2 variants based on guidelines provided by the American College of Medical Genetics (ACMG, 2018) to construct a database for Thai breast cancer variants.
-  * Developed and deployed pipelines to Amazon Web Services (AWS) for scaling up demanding computational tasks, such as large GWAS analyses (>1,000 samples and >900,000 SNPs). <br>
+Prior to this, I worked on single-cell image analysis in human embryonic stem cells with Rafael Carazo-Salas at the University of Bristol. Through this project, I discovered my interests for data analysis and computational biology.
 
-**University of York, UK (2023)** <br>
-Research project supervised by Prof Jeremy Mottram & Dr Joana Faria. 
-* Utilised precision gene editing to characterise a putative RNA:DNA helicase in Leishmania mexicana.
-* Employed bioinformatic tools (HMMER and AlphaFold2) to infer protein structural properties. <br>
+<p align="center">
+<img src="files/images/about/LinD_noLabels.gif" alt="cell_migration" width=600><br>
+<em>Cell migration is a community effort. Pictured is a timelapse of differentiating human embryonic stem cells. Nuclei visualised by H2B staining.</em>
+</p>
 
-**University of Bristol, UK (2022)** <br>
-Dissertation supervised by Prof Rafael Carazo-Salas. 
-* Applied image segmentation and classification methods for tracking individual human pluripotent stem cells to map differentiation pathways.
-* Extracted biological features to predict differentiation characteristics, such as differentiation marker expression, cell cycle length, cell migration distance and cell velocity. <br>
+For my MSc, I took on an experimental project in parasitology with Jeremy Mottram and Joana Faria at the University of York. Here, I explored a putative RNA:DNA helicase, provisionally called VEX2, in *Leishmania mexicana*. <br>
 
-**Ministry of Public Health, Thailand (2021)** <br>	
-Summer internship supervised by Dr Surakameth Mahasirimongkol.
-* Conducted genomic analysis of SARS-CoV-2, focusing on the Spike and Nucleocapsid proteins, to monitor viral evolution in Thailand.
+<p align="center">
+<img src="files/images/about/mNGVex2-Vex1mCH.svg" alt="leishmania" width=500> <br>
+<em>A co-transcriptional complex? Fluorescence visualisation of Leishmania "VEX2" (mCherry-tagged) and "VEX1" (mNeonGreen-tagged), a component of the splice leader array body (SLAB).</em>
 
-## TECHNICAL SKILLS
-**Bioinformatics:**
-* Programming languages - Python, R, Unix
-* Cloud & Virtual Machine (VM) computing
-* GWAS, Variant interpretation, Phylogenetic inference <br>
+Through these experiences, I realised that I appreciate research, so I am currently searching for PhD opportunities. <br>
 
-**Experimental techniques:**
-* PCR, CRISPR/Cas-9, DNA extraction
-* Western blot, Co-immunoprecipitation
-* Cell imaging (Widefield & Confocal) <br>
+## Volunteering
+I enjoy volunteering, experiences include:
+* **Health volunteer** - visited the elderly and chronically ill patients to check on their well-being.
+* **Biodiversity Survey for [Rowntree Park](https://rowntreepark.org.uk/)** to address issues arising from flooding. I investigated plant species and soil conditions within the park's Pollinator Project. <br>
+<p align="center">
+<img src="files/images/about/survey1.jpg" alt="survey1" width=500 height=400/>
+<img src="files/images/about/survey2.jpg" alt="survey2" width=300 height=400/><br>
+<em>Two sides of the coin: weeds may be invasive but they contribute to the ecosystem. Pollinators do not discriminate!</em>  
+</p>
 
-## EDUCATION
-**University of York, UK (2022 - 2023)** <br>
-Master of Science (MSc) in Biomedical Sciences <br>
-* Activities: Biodiversity Community Project
+* **Tutor** - assisted primary school students in subjects such as Mathematics, English and Norwegian.
+* **Event organisation** - on various occassions, including school events and club activities. 
 
-**University of Bristol, UK (2019 - 2022)** <br>
-Bachelor of Science (BSc Hons) in Biomedical Sciences <br>
+<br>
 
-**Gjøvik High School, Norway (2017 - 2019)** <br>
-International Baccalaureate Diploma Programme (IBDP) <br>
-* Main subjects: Biology, Chemistry, English Language & Literature
-
-## CONFERENCES & WORKSHOPS
-***Infectious Diseases Omics*** - 17 - 20 March 2025, hands-on multi-omics course hosted by the London School Hygiene and Tropical Medicine.
-* Techniques range from: phylogenetics and molecular clocking, transcriptomics, machine learning.
-
-***AWS Genomics Community Day*** - 3 – 4 March 2025, workshop hosted by Amazon Web Services (AWS)
-* Explored cloud-based genomics workflows with AWS HealthOmics.
-  
-***MedHackathon Asia 2025*** - Workshop hosted by MedHackathon Asia, 2025
-* Participated in the planning of a standardised Pan-Asian imputation pipeline to improve precision medicine across Asia.
-* Collaborated with data scientists to solve a hackathon problem.
-* Developed an awareness for common issues among Asian countries regarding sharing genomic data.
- 
-***AI in Genomics Medicine*** - Seminar hosted by British Embassy Bangkok with guest speakers from Genomics England and Incubator for AI (ai.gov.uk), 2025
-* Explored the successes and challenges, both technical and policy-based, for AI applications in British healthcare and research.
-
-## PROFESSIONAL MEMBERSHIPS
-Thai Society of Human Genetics, 2024 - present	
-
-## AWARDS
-Thai Society of Human Genetics travel grant for MedHackathon Asia, 2025
-
-## RELEVANT EXPERIENCES
-**Analyst (2023 - 2024)** <br>
-* Performed data analysis to improve operations and identified opportunities for businesses, projects include:
-  * Real estate development and palm oil optimisation
-  
-**Volunteer** (2023) <br>
-Rowntree Park Biodiversity Survey
-* Volunteered for York Community Projects, where I worked in a team of 6 volunteers to assist the Friends of Rowntree charity to address issues on flooding. 
-* Organised surveys to analyse plant growth and soil condition for the Pollinator Project.
-* Presented findings to stakeholders of the park and provided actionable recommendations for future development.
-
-**Tutor (2017 - 2018)** <br>
-* Provided individual tutoring to primary school students at Gjøvik International School for several subjects, such as Mathematics, English and Norwegian while undertaking my IB diploma.
-
-## CERTIFICATES
-[Infectious Diseases Omics](https://drive.google.com/file/d/1of7lnOci-3KKVRlBgYRkq_JQVahvflwx/view?usp=sharing) - London School of Hygiene and Tropical Medicine <br> 
-[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/zeeweemama/intermediate-machine-learning) - Kaggle <br>
-[Data Science for Everyone](https://drive.google.com/file/d/18jKZ87-q6ndzHkxqrP_s-PnX58nnprYW/view?usp=drive_link) - FutureSkill <br>
-
-## HOBBIES & INTERESTS
-* **Gardening & DIY** 
-* **Rifle shooting** - previously part of a local shooting team in Norway, participated in regional competitions. Learned about the importance of gun safety and control.
-* **Cross-country skiing**
+*Updated: April 2025*
