@@ -2,7 +2,7 @@
 
 ![pdf](https://github.com/user-attachments/assets/46d54490-eeac-4a79-a5f9-cde2e7c628bd)
 <a href="https://github.com/engwbc/engwbc.github.io/blob/main/files/PiyakritW_CV_2025.pdf" download="download"> PDF version </a> <br>
-piyakrit_w at protonmail.com <br>
+![mail](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAASJJREFUWEftl2ESwTAQhV9vwklwEpwEJ8FNOAlH0a+TnYlM2qSl4kfejGEku/ve221Eo8JoCtdXJfCXDuwkrWaajaukp3t1JUIHzu0iBObEsa17sgI+gYWkx5yVvdxLc8EngHIc+AX2ki5hC3wCLLKJ7w7tZtyZio2kmxNn7U0SeOtTEJxLxETYfoSQFyQJsIkEDAtTC9aOSMoN1BLHuyEc7iwCBFOcZF2/HFCClTEioXN9c5VNwIqihiBzg+KowhWQWg/bNpqAJSCQYkYEhXz27fZ73TcvkwmY2rDHNiMUN1eGhvUjApbYH9KxJ+hXCAwpTK1VAtWB6kDUgeIXEp7dsQdK6nmPrXN0cyPqELsVc5Rup2TOiLkHv6z1j0l1oLwDLzggUSFAoMvaAAAAAElFTkSuQmCC) piyakrit_w at protonmail.com <br>
 
 ## RESEARCH EXPERIENCE
 
