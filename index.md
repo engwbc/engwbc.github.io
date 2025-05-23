@@ -1,6 +1,6 @@
 # About
 
-Hello, my name is Piyakrit, but please call me Eng (pronounced: Ing)!
+Hello, my name is Piyakrit, but please call me Eng!
 
 I am an intern at the Ministry of Public Health (MOPH), Thailand, working within the Genomic Medicine division at the [Department of Medical Sciences (DMSc)](https://www.dmsc.moph.go.th/en/home). Here, I am working on various projects within [Genomics Thailand](https://genomicsthailand.com/Genomic/home) ([Facebook](https://www.facebook.com/GenomicsThailand/)) - from developing bioinformatics pipelines, performing genome-wide association studies (GWAS) to variant interpretation for genetic diseases, such as breast cancer. All of this was new to me, but I found this endeavour immensely satisfying to learn!
 
@@ -27,6 +27,10 @@ I enjoy volunteering, experiences include:
 
 * **Health volunteer** - visited the elderly and chronically ill patients to check on their well-being.
 
+<p align="center">
+<img src="files/images/about/health_volunteer.jpg" alt="survey1" width=500 height=400/>
+</p>
+
 * **Biodiversity Survey for [Rowntree Park](https://rowntreepark.org.uk/)** to address issues arising from flooding. I investigated plant species and soil conditions within the park's [Pollinator Project](https://rowntreepark.org.uk/rowntree-park-pollinator-project/).
 
 <p align="center">
@@ -37,6 +41,10 @@ I enjoy volunteering, experiences include:
 
 * **Tutor** - assisted primary school students in subjects such as Mathematics, English and Norwegian.
 
-* **Event organisation** - on various occasions, including school events and club activities.
+## Fieldwork
 
-*Updated: April 2025*
+* **Cyanobacteria and Seasonality** - IB extended essay project linking the effects of cyanobacterial growth and seasonal changes in Norwegian lakes.
+
+* **Ocean Acidification** - IB Biology coursework where I collected seashells in Southern Thailand to determine how seawater acidity degrades calcium carbonate structural composition.
+
+*Updated: May 2025*
