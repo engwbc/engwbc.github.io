@@ -25,12 +25,6 @@ Through these experiences, I developed an appreciation for topics intersecting m
 
 I enjoy volunteering, experiences include:
 
-* **Health volunteer** - visited the elderly and chronically ill patients to check on their well-being.
-
-<p align="center">
-<img src="files/images/about/health_volunteer.jpg" alt="survey1" width=500 height=400/>
-</p>
-
 * **Biodiversity Survey for [Rowntree Park](https://rowntreepark.org.uk/)** to address issues arising from flooding. I investigated plant species and soil conditions within the park's [Pollinator Project](https://rowntreepark.org.uk/rowntree-park-pollinator-project/).
 
 <p align="center">
